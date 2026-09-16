@@ -1,0 +1,10 @@
+{
+  "name": "サーバー洗浄管理",
+  "short_name": "洗浄管理",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "サーバー洗浄管理"
+}
